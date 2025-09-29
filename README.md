@@ -1,3 +1,5 @@
+> 🚧 **DEPRECATION NOTICE:** PostHog plugins have been deprecated and replaced by our 'Hog' based destinations allowing completely customisable integrations.
+
 # URL parameters to event properties
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg?style=flat-square)](https://opensource.org/licenses/MIT)
